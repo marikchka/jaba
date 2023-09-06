@@ -1,0 +1,4 @@
+found digits:
+2
+4
+amount: 2

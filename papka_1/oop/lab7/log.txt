@@ -1,0 +1,8 @@
+data processing stage:
+incoming data: i have 2 arms, killed 4 mermaid and 1.56 worm
+
+results:
+found digits:
+        2
+        4
+amount: 2
